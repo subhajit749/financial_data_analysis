@@ -1,4 +1,4 @@
-# financial_data_analysis
+# Financial_data_analysis
 This repository contains a robust Python-based tool designed to scrape historical market data, perform Monte Carlo simulations for price forecasting, and generate cohort analysis heatmaps to visualize annualized returns across a diverse portfolio.
 # Features
 Resilient Data Scraping: Uses yfinance with built-in exponential backoff and error handling to bypass rate limits (429 errors).
